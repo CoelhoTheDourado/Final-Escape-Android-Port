@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portal0000" x="0" y="0" width="919" height="475" frameX="-40" frameY="-1" frameWidth="985" frameHeight="476"/>
+	<SubTexture name="portal0001" x="919" y="0" width="985" height="471" frameX="0" frameY="0" frameWidth="985" frameHeight="476"/>
+	<SubTexture name="portal0002" x="0" y="475" width="962" height="471" frameX="-15" frameY="0" frameWidth="985" frameHeight="476"/>
+</TextureAtlas>

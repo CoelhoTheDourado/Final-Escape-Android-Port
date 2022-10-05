@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carpet.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carpet0000" x="0" y="0" width="1250" height="601" frameX="0" frameY="-9" frameWidth="1250" frameHeight="610"/>
+	<SubTexture name="carpet0001" x="0" y="601" width="1227" height="610" frameX="-11" frameY="0" frameWidth="1250" frameHeight="610"/>
+	<SubTexture name="carpet0002" x="0" y="1211" width="1249" height="600" frameX="0" frameY="-9" frameWidth="1250" frameHeight="610"/>
+</TextureAtlas>
